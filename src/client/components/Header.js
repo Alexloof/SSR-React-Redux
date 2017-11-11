@@ -22,7 +22,7 @@ class Header extends Component {
               <Link to="/users">Users</Link>
             </li>
             <li>
-              <Link to="/admin">Admins</Link>
+              <Link to="/admins">Admins</Link>
             </li>
             <li>{authButton}</li>
           </ul>
